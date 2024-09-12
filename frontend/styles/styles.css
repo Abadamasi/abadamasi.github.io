@@ -27,7 +27,7 @@
     text-align: center;
     padding: 10px 30px;
     /* Fixed height or padding as needed */
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
   }
