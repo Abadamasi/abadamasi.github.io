@@ -17,7 +17,7 @@ A feature-rich travel website for booking flights, viewing trip details, checkin
 This project is a comprehensive travel website that allows users to book and cancel tickets, view trip overviews, download tickets, check pricing, and track airports in Nigeria. It offers an intuitive interface for travelers and aims to streamline the booking experience. Whether you're planning a vacation or business trip, this platform provides all necessary functionalities in one place. [Travel Website](https://abadamasi.github.io)
 
 ## Blog Article
-For detailed insights and development notes, please visit the [final project blog article](https://your-blog-post.com).
+For detailed insights and development notes, please visit the [final project blog article](https://www.linkedin.com/posts/abba-badamasi-835a58167_building-a-travel-website-from-inspiration-activity-7242303988337917952-aHmE?utm_source=share&utm_medium=member_desktop).
 
 ## Features
 - **Book and Cancel Tickets:** A full-featured system to manage your travel bookings.
